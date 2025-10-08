@@ -1,5 +1,7 @@
 # mega-mapas-api
 
+[![Playlist YouTube - mega-mapas-api](https://img.youtube.com/vi/vQQcB-Ol3j8/maxresdefault.jpg)](https://youtube.com/playlist?list=PLz9bzqrAthDksDrwxE-RmyaeCo6IR6ft7&si=htigXOrWUPg_LjcC)
+
 ## 📋 Descrição
 
 API de dados geográficos similar à API do IBGE. Esta primeira versão oferece listagem completa de dados geográficos hierárquicos, incluindo:
